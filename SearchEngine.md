@@ -3,7 +3,8 @@
 The code below is a simple search engine that allows you to add strings and search for strings that matches your query.  
 
 
-```import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.*;
 
